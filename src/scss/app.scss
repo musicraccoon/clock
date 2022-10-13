@@ -1,0 +1,14 @@
+@import 'root';
+@import 'clock';
+
+html {
+  height: 100%;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: #795bcb;
+  min-height: 100%;
+}
